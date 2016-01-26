@@ -15,6 +15,7 @@ digraph {
     label="artists";
     Mandiberg;
     Rees;
+    Carla;
     Claudia;
     Kurt;
   }
@@ -31,6 +32,7 @@ digraph {
 
   subgraph cluster_institutions {
     label="institutions";
+    Pratt;
     Moma;
     Mana;
     "William Patterson University"
@@ -42,6 +44,8 @@ digraph {
 
   //edges
   Transfer -> Claudia;
+  Transfer -> Carla;
+  Pratt -> Carla;
   Bitforms -> Claudia;
   "William Patterson University" -> Rees;
   David -> SAIC;

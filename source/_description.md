@@ -1,5 +1,7 @@
 # Lizard Illuminati Project // Maurice Hampton | Andrew Monks
 
+4% of americans believe in the reptillian illuminati theory, so the next time you’re in a room in america with more than 25 people -- odds are one of them believes barack obama tastes the air by flicking his tongue in and out
+
 We  are making a [crazywall][1] mapping money and power in the ny
 art world with the [visual language of the reptilian illuminati][2].
 Think polaroids and string and photoshopped gills and lots of ugly text.
