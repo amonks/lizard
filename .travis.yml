@@ -12,6 +12,7 @@ branches:
 script:
 - bundle exec middleman build
 deploy:
+  skip_cleanup: true
   provider: s3
   access_key_id: AKIAI3D5RFEP6ABE6NTQ
   local_dir: build
