@@ -1,7 +1,6 @@
 language: ruby
-
 rvm:
-  - 2.2.4
+- 2.2.4
 addons:
   apt:
     packages:
@@ -15,11 +14,10 @@ deploy:
   skip_cleanup: true
   provider: s3
   access_key_id: AKIAI3D5RFEP6ABE6NTQ
-  local_dir: build
   secret_access_key:
-    secure: awcJVnJRmTCDSy7WIptMp1v214wGF8oZXkeuxhM99piqJxMRQ7xcFQNW1M8F8Cf2BPxZkHaTsKM0MyHoDiJbRqVjVvfQ5pN2kOlJELKNs66vMKRojL8RWJIzvzz1iIzc629u70lL9PAkHOG1kKBWYI8VRMTTU6fcwqRTiw7RnEqyil18FtkBRMhrROuGGiVpi0q7VCym+Zl2mfxJYHUKnlERYDCflZelyj6Bnd9BuZfvMezEkogGqUzgVm0zeLLAN8AdGa5vUf+xJKUM9cdqs93IugpUMvbOqHnzXn8HhlSQ/X8IfEsdZRQwAtr5egtil21vjBjsjwr+EnUMumcE9b7xBbIey2HiZ14Yn1RoW9GRSSQe997Qj5nXNCOkxZJT7hFTto5fwrMH0mDP4U0Y0W8V7Nd6564iPDWMX6nEJBvEkUsPElQlUcZuOo14/ivUf4nodRkw0H9ZpYW/iuyXSj4icq2/kK56BkM7IbY3nHloSves1gd4dbA6B80xPF0NCAAe7ALZGmdox3ikjhI2Hmjb+32fwoQtXFVwm9KOLI8irjBKlfajbtXaf3Z3A2vwOXBnmK3Y+ro1OqRX91qJh/yE0APZWPUCXVcq9ERecFXnsLNUWKwFxtnAoWX10pk3MC9z867O7rRngL18fcmGlMFcZ3fbrxDbNgjwo/5P6Lg=
+    secure: gSpuEIw4zyawkN0NncJ+eMaFjIyiSlbsPAROOoGPBFE0yQ6GMngEJJHiMS6Bl9R7FXZZOW5L8xjUOVMUfPjBHyunV3zW8wzQ2lNsZplRkWnAYfqU64Mlm4aG0IXrG21I+2/8u0mqaLp7izZOYFtE/I94OuKg1lENZzLQj7BqDDqLGkezBQVl7Zxciuivtu70ylXTLrc8mF0cx+hlV/DmxepZCbEPmG3lV4H/kku1CzWFflY/XFJeoHe/NIsksoVgcmCGPUdcwsTwL9T9p5Eld0jmbQaDK0ouxziavhry3uC+Sd//PWiLsiDJ9pojq3Ggw/yx8b2CCYnDh9vIdKStJ5p/CL7WibKNN/mGs9cviCy4dR3lhhth7C5Pq0dsRuXi69gePKYrIPUwVSJSgxvkVtROJwVifbcWxsD2spvrZPwRH5jo8GdtNpbpjMzbmlIUMQYi14Eg4sSKENTsjvKtN6Ij0kIJ1QlrE929CSyx1VNo+LJXBXwcrHBywkbeXGmGnbFBmJzIoUcPUpg2AabXjGNgmePcDq4v8dQPZ+V13Z7Tf5vgFfn4CQikKy4tcBY+4puncul93CdMolfbqqN+0pB4bizitTmyZO4Z80NNv+Il8qyLm2u7/ZibVczdHAOI4/L4/5CHKN0Qdfu6Z/yuTyK7tUxpP3Opvflf/T0B79o=
   bucket: l1zard.xn--onks-99b.com
+  local_dir: build
   acl: public_read
   on:
     repo: amonks/lizard
-
