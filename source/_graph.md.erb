@@ -11,7 +11,7 @@ digraph {
     Bitforms;
     Transfer;
     Postmasters;
-    The Kitchen;
+    "The Kitchen";
     Shin
   }
 
@@ -26,6 +26,7 @@ digraph {
   subgraph cluster_money {
     label="money";
     Moma;
+    Transfer;
     Mana;
     SAIC;
     Shin;
@@ -39,9 +40,6 @@ digraph {
     David;
   }
 
-
-  // server  -> s3;
-  // admin   -> s3;
-  // server  -> database;
+  Transfer -> Claudia;
 }
 <% end %>
