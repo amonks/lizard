@@ -2,28 +2,29 @@
 title: Lizard Graph
 ---
 
+# Graph of the Lizard Economy
+
 <% graphviz do %>
 digraph {
   subgraph cluster_gallery {
     label="clients";
-    website;
-    booth;
-    admin;
+    Bitforms;
+    Transfer;
+    Postmasters;
   }
 
   subgraph cluster_artist {
     label="social";
-    facebook;
-    twitter;
-    etc;
+    Mandiberg;
+    Rees;
   }
 
-  subgraph cluster_money {
+  subgraph cluster_institutions {
     label="cloud";
-    website;
-    server;
-    s3;
-    database;
+    Moma;
+    Mana;
+    SAIC;
+    David;
   }
 
 
