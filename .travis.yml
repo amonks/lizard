@@ -9,15 +9,15 @@ branches:
 script:
 - bundle exec middleman build
 before_deploy:
-  - rvm 1.9.3 do gem install aws-sdk -v 2.1.36
+- rvm 1.9.3 do gem install aws-sdk -v 2.1.36
 deploy:
   skip_cleanup: true
   provider: s3
   access_key_id: AKIAI3D5RFEP6ABE6NTQ
   secret_access_key:
-    secure: gSpuEIw4zyawkN0NncJ+eMaFjIyiSlbsPAROOoGPBFE0yQ6GMngEJJHiMS6Bl9R7FXZZOW5L8xjUOVMUfPjBHyunV3zW8wzQ2lNsZplRkWnAYfqU64Mlm4aG0IXrG21I+2/8u0mqaLp7izZOYFtE/I94OuKg1lENZzLQj7BqDDqLGkezBQVl7Zxciuivtu70ylXTLrc8mF0cx+hlV/DmxepZCbEPmG3lV4H/kku1CzWFflY/XFJeoHe/NIsksoVgcmCGPUdcwsTwL9T9p5Eld0jmbQaDK0ouxziavhry3uC+Sd//PWiLsiDJ9pojq3Ggw/yx8b2CCYnDh9vIdKStJ5p/CL7WibKNN/mGs9cviCy4dR3lhhth7C5Pq0dsRuXi69gePKYrIPUwVSJSgxvkVtROJwVifbcWxsD2spvrZPwRH5jo8GdtNpbpjMzbmlIUMQYi14Eg4sSKENTsjvKtN6Ij0kIJ1QlrE929CSyx1VNo+LJXBXwcrHBywkbeXGmGnbFBmJzIoUcPUpg2AabXjGNgmePcDq4v8dQPZ+V13Z7Tf5vgFfn4CQikKy4tcBY+4puncul93CdMolfbqqN+0pB4bizitTmyZO4Z80NNv+Il8qyLm2u7/ZibVczdHAOI4/L4/5CHKN0Qdfu6Z/yuTyK7tUxpP3Opvflf/T0B79o=
+    secure: Jxp8oOWBoz9wyqTzeMopgUUAhu2JMsweRAZggRLa9nvd39XqGq1wyPSMEN+jLfiJ9hsLO4uLZWoseGF6xl3teF25uhTWcqQH0zGqs62jliGlxPZbdEo6l8npYFYaTL+ypwQyv7qGdeFvxUyNW5YmGkq+mLSsFVdIEXnmKqMQyhDN2DUoFF7yYTdVRpMSPoOgxZOEab4KyUnloycCMfqVq+STW1iFX/qlwtqvZy8NY9xCvZEVbrA8L1/FXW/2Qkdyn/Q1Xxp4YxHSBjmKgdWLtQ+OXJSLPofUxYKjINum/OrotUdk0O4STXJqB7D4SHxt3wOtd2hiSktGpNcZjArrrbnZyXRtT4FbHKlH0ZCvOLSXO5kn/ZriigbkhV/upwZHhFUNxhqevfsugV0HmdAejrX7dG064I1SJJg1I6kvyXhBRMp8rGMYVSBP4T+E9FLUTaPe9ZobEFMlm6JqIaOowr4GtnVv7TXaexh3OPtjq7d8bYZe79ydgBbI6uHcvJI1J+SXFi3SUmTiQ0yyHF+iCHe/IdI62WQxvvG/gpSfYXu9ILnJR+wYSAdL4bRDS19DwSfGpUoVwTpGvzC1ua8xQbzLZgALo/2zNonMqv+63eDpV/42VfnehTk0xSiAwvDk9RJ567TJi+K18Dnlzv1vgoVgg5b6ozr93KzmoK8GR3E=
   bucket: l1zard.xn--onks-99b.com
-  local_dir: build
+  local-dir: build
   acl: public_read
   on:
     repo: amonks/lizard
