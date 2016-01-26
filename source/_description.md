@@ -1,19 +1,13 @@
 # Lizard Illuminati Project // Maurice Hampton | Andrew Monks
 
-4% of americans believe in the reptillian illuminati theory, so the next time you’re in a room in america with more than 25 people -- odds are one of them believes barack obama tastes the air by flicking his tongue in and out
+4% of americans believe in the reptillian illuminati theory, so the next time you're in a room in america with more than 25 people -- odds are one of them believes Barack Obama tastes the air by flicking his tongue in and out.
 
-We  are making a [crazywall][1] mapping money and power in the ny
-art world with the [visual language of the reptilian illuminati][2].
-Think polaroids and string and photoshopped gills and lots of ugly text.
-You definitely saw me taking [not]stealth pics of all the people we
-talked to on the trip.
+We  are making a [crazywall][1] mapping money and power in the ny art world with the [visual language of the reptilian illuminati][2]. Think polaroids and string and photoshopped gills and lots of ugly text. You definitely saw me taking [not]stealth pics of all the people we talked to on the trip.
 
 [1]: http://i.imgur.com/pYlEkII.png
 [2]: https://i.ytimg.com/vi/P0WJrQwuMRA/hqdefault.jpg
 
 Hoping to draw some pointed comparisons:
 
-"The locus of power in the [art] world sits with a small group of
-wealthy people who exert power behind the scenes [and are alien reptiles
-also]."
+> The locus of power in the [art] world sits with a small group of wealthy people who exert power behind the scenes [and are alien reptiles also].
 
