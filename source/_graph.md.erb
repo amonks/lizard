@@ -7,20 +7,32 @@ title: Lizard Graph
 <% graphviz do %>
 digraph {
   subgraph cluster_gallery {
-    label="clients";
+    label="galleries";
     Bitforms;
     Transfer;
     Postmasters;
+    The Kitchen;
+    Shin
   }
 
   subgraph cluster_artist {
-    label="social";
+    label="artists";
     Mandiberg;
     Rees;
+    Claudia;
+    Kurt;
+  }
+
+  subgraph cluster_money {
+    label="money";
+    Moma;
+    Mana;
+    SAIC;
+    Shin;
   }
 
   subgraph cluster_institutions {
-    label="cloud";
+    label="institutions";
     Moma;
     Mana;
     SAIC;
