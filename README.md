@@ -16,3 +16,8 @@ add:
 
 * hit up the LISA photographer
 * hyperallergic writers
+
+
+## look up
+
+* hans haacke
