@@ -15,7 +15,22 @@ graph {
     label="artists";
     "Microscope Gallery";
     Mandiberg;
+    "Will Pappenheimer";
+    "Shane Mecklenburger";
+    "Jason Eppink";
     Rees;
+    "Walid Raad";
+    "Sara Ludy";
+    
+    // black and white artists
+    "Joe Bochynski";
+    "Nicole Reber";
+    "Ross Simonini";
+    "Anastasia Ax";
+    "Rachel Stern";
+    
+    "Jim Shaw";
+    "Ingo Günther";
     Carla;
     "Kristin Lucas";
     "Joe Maccay";
@@ -26,7 +41,7 @@ graph {
 
   subgraph cluster_money {
     label="money";
-    Moma;
+    MOMA;
     Transfer;
     "Moishe Mana";
     "William Patterson University";
@@ -39,10 +54,14 @@ graph {
     label="institutions";
     "Waterfall Mansion";
     Pratt;
+    "The Whitney";
+    "MOMI";
     "The New Museum";
+    "Flux Factory";
+    Eyebeam;
     NewInc;
     "Cooper Hewitt"
-    Moma;
+    MOMA;
     ICP;
     "Mana Contemporary";
     Hyperallergic;
@@ -54,17 +73,45 @@ graph {
   David;
   "Hrag Vartanian";
   "Pablo Gnecco";
-
+  "Sasha Okshteyn";
+  "Michelle Fisher";
+  "Paul Galloway";
   "Veken Gueyikian";
   "Christopher Phillips";
   "Dooeun Choi";
   "Magda Sawon";
+  "Carl Goodman";
   "Moishe Mana";
+  "Roddy Shrock";
+  "Laura Weizenbach";
 
 
   //edges
+  Eyebeam -- "Roddy Shrock";
+  Eyebeam -- "Laura Weizenbach";
+  "Sasha Okshteyn" -- "Black And White Gallery";
+  "Black And White Gallery" -- "Joe Bochynski";
+  "Black And White Gallery" -- "Nicole Reber";
+  "Black And White Gallery" -- "Ross Simonini";
+  "Black And White Gallery" -- "Anastasia Ax";
+  "Black And White Gallery" -- "Rachel Stern";
+
   "The New Museum" -- NewInc;
   "Pablo Gnecco" -- NewInc;
+  
+  Kurt -- Postmasters;
+  
+  "Carl Goodman" -- MOMI;
+  "Jason Eppink" -- MOMI;
+  "Jason Eppink -- "Flux Factory";
+  
+  
+  "Will Pappenheimer" -- "The Whitney";
+
+  MOMA -- "Michelle Fisher";
+  MOMA -- "Paul Galloway";
+  MOMA -- "Walid Raad";
+  
 
   Transfer -- Claudia;
   Transfer -- Carla;
