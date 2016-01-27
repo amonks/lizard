@@ -2,6 +2,80 @@
 
 <% graphviz do %>
 graph {
+  subgraph cluster_gallerist {
+    label="gallerists/curators";
+    
+    // name                     // institution
+    
+    "Michelle Fisher";          // MOMA
+    "Paul Galloway";            // MOMA
+    "Dooeun Choi";              // Waterfall Gallery
+    "Kelani Nicole";            // transfer
+    "Magda Sawon";              // postmasters
+    "Helena Acosta";            // reverse space
+    "Elle Burchill";            // microscope
+    "Andrea Monti";             // microscope
+    "Sasha Okshteyn";           // black and white
+    "Carl Goodman";             // MOMI
+    "Christopher Phillips";     // ICP
+  }
+
+  subgraph cluster_artist {
+    label="artists";
+    
+    // name                     // institution
+    
+    Rutledge;                   // pratt
+    Knollmeyer;
+    "Pablo Gnecco";             // newinc
+    "Angela Washko";            // the wild project   // mra media thing   
+    "Violette Bule";            // Reverse Space
+    Mandiberg;
+    "Lisa Gwilliam";            // Microscope
+    "Ray Sweeten";              // Microscope
+    "Will Pappenheimer";        // The Whitney
+    "Shane Mecklenburger";      // ???
+    "Jason Eppink";             // flux factory       // MOMI
+    Rees;                       // Patterson          // ???
+    "Walid Raad";               // MOMA
+    "Sara Ludy";                // Bitforms
+    "Jim Shaw";                 // New Museum
+    "Ingo Günther";             // ???
+    Carla;                      // Pratt              // Transfer
+    "Kristin Lucas";            // Postmasters
+    "Joe Maccay";               // Postmasters         
+    "Miao Jiaxin";              // SAIC               // ???
+    Claudia;                    // Bitforms           // SAIC         // 
+    Kurt;                       // SAIC               // ???
+    
+    // black and white artists
+    "Joe Bochynski";
+    "Nicole Reber";
+    "Ross Simonini";
+    "Anastasia Ax";
+    "Rachel Stern";
+  }
+
+  subgraph cluster_money {
+    label="money";
+    
+    // name               // institution
+    
+    "Kelani Nicole";      // transfer
+    "Kate Shin";          // waterfall mansion
+    "Moishe Mana";        // mana contemporary
+  }
+  
+  subgraph cluster_press {
+    label="the press";
+    Hyperallergic;
+    "Veken Gueyikian";
+    "Hrag Vartanian";
+    
+    "Veken Gueyikian" -- Hyperallergic;
+    "Hrag Vartanian" -- Hyperallergic;
+  }
+  
   subgraph cluster_gallery {
     label="galleries";
     Bitforms;
@@ -97,80 +171,6 @@ graph {
     SAIC -- David;
     SAIC -- Tiffany;
     SAIC -- Kurt;
-  }
-  
-  subgraph cluster_gallerist {
-    label="gallerists/curators";
-    
-    // name                     // institution
-    
-    "Michelle Fisher";          // MOMA
-    "Paul Galloway";            // MOMA
-    "Dooeun Choi";              // Waterfall Gallery
-    "Kelani Nicole";            // transfer
-    "Magda Sawon";              // postmasters
-    "Helena Acosta";            // reverse space
-    "Elle Burchill";            // microscope
-    "Andrea Monti";             // microscope
-    "Sasha Okshteyn";           // black and white
-    "Carl Goodman";             // MOMI
-    "Christopher Phillips";     // ICP
-  }
-
-  subgraph cluster_artist {
-    label="artists";
-    
-    // name                     // institution
-    
-    Rutledge;                   // pratt
-    Knollmeyer;
-    "Pablo Gnecco";             // newinc
-    "Angela Washko";            // the wild project   // mra media thing   
-    "Violette Bule";            // Reverse Space
-    Mandiberg;
-    "Lisa Gwilliam";            // Microscope
-    "Ray Sweeten";              // Microscope
-    "Will Pappenheimer";        // The Whitney
-    "Shane Mecklenburger";      // ???
-    "Jason Eppink";             // flux factory       // MOMI
-    Rees;                       // Patterson          // ???
-    "Walid Raad";               // MOMA
-    "Sara Ludy";                // Bitforms
-    "Jim Shaw";                 // New Museum
-    "Ingo Günther";             // ???
-    Carla;                      // Pratt              // Transfer
-    "Kristin Lucas";            // Postmasters
-    "Joe Maccay";               // Postmasters         
-    "Miao Jiaxin";              // SAIC               // ???
-    Claudia;                    // Bitforms           // SAIC         // 
-    Kurt;                       // SAIC               // ???
-    
-    // black and white artists
-    "Joe Bochynski";
-    "Nicole Reber";
-    "Ross Simonini";
-    "Anastasia Ax";
-    "Rachel Stern";
-  }
-
-  subgraph cluster_money {
-    label="money";
-    
-    // name               // institution
-    
-    "Kelani Nicole";      // transfer
-    "Kate Shin";          // waterfall mansion
-    "Moishe Mana";        // mana contemporary
-  }
-  
-  subgraph cluster_press {
-    label="the press";
-    Hyperallergic;
-    "Veken Gueyikian";
-    "Hrag Vartanian";
-    
-    "Veken Gueyikian" -- Hyperallergic;
-    "Hrag Vartanian" -- Hyperallergic;
   }
 
 
