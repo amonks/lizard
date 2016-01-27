@@ -9,10 +9,12 @@ it takes a couple minutes to update
 
 ## todo
 
+send photosynths to mario
+
 add:
 
 * harvest works
-* [something] landau
+* fisher landau
 
 * hit up the LISA photographer
 * hyperallergic writers
@@ -36,4 +38,10 @@ add:
 * dan: abstract memory places
 * lj: Nothing
 * sam: 3d architecture from social performance
+* isabelle: 
 
+## not present
+
+* meredith
+* sarah
+* jarad
