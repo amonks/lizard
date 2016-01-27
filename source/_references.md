@@ -24,7 +24,6 @@
 * ![](https://matrixpraxis.files.wordpress.com/2015/04/bhyltpucuaaqrem-jpg-large.jpeg)
 * ![](https://warningilluminati.files.wordpress.com/2011/08/037206744285085695651.jpg) 
 * ![](http://i3.ytimg.com/vi/TDIvlIhWxMs/mqdefault.jpg)
-* ![](http://www.jesus-is-savior.com/False%20Religions/Illuminati/occult-illuminati_power.jpg)
 * ![](https://i.ytimg.com/vi/zfJE_qbQlcE/maxresdefault.jpg)
 * ![](http://images-cdn.9gag.com/photo/apoB5rW_700b_v2.jpg)
 * ![](http://www.thesleuthjournal.com/wp-content/uploads/2015/02/Pyramid-Eye.jpg)
