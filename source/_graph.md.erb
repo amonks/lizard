@@ -1,7 +1,7 @@
 # Graph of the Lizard-Art Economy
 
 <% graphviz do %>
-digraph {
+graph {
   subgraph cluster_gallery {
     label="galleries";
     Bitforms;
@@ -56,24 +56,24 @@ digraph {
 
 
   //edges
-  Transfer <-> Claudia;
-  Transfer <-> Carla;
-  Carla <-> Pratt;
-  Bitforms <-> Claudia;
-  "William Patterson University" <-> Rees;
-  Claudia <-> SAIC;
-  David <-> SAIC;
-  Tiffany <-> SAIC;
-  Kurt <-> SAIC;
-  "Christopher Phillips" <-> ICP;
-  Mana <-> ICP;
+  Transfer -- Claudia;
+  Transfer -- Carla;
+  Carla -- Pratt;
+  Bitforms -- Claudia;
+  "William Patterson University" -- Rees;
+  Claudia -- SAIC;
+  David -- SAIC;
+  Tiffany -- SAIC;
+  Kurt -- SAIC;
+  "Christopher Phillips" -- ICP;
+  Mana -- ICP;
 
-  "Dooeun Choi" <-> "Waterfall Mansion";
-  "Waterfall Mansion" <-> "Kate Shin";
-  Claudia <-> "Waterfall Mansion";
-  Postmasters <-> "Magda Sawon";
+  "Dooeun Choi" -- "Waterfall Mansion";
+  "Waterfall Mansion" -- "Kate Shin";
+  Claudia -- "Waterfall Mansion";
+  Postmasters -- "Magda Sawon";
 
-  "Veken Gueyikian" <-> Hyperallergic;
-  "Hrag Vartanian" <-> Hyperallergic;
+  "Veken Gueyikian" -- Hyperallergic;
+  "Hrag Vartanian" -- Hyperallergic;
 }
 <% end %>
