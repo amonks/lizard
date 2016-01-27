@@ -67,7 +67,17 @@ graph {
     SAIC;
     "Kate Shin";
   }
-
+  
+  subgraph cluster_press {
+    label="the press";
+    Hyperallergic;
+    "Veken Gueyikian";
+    "Hrag Vartanian";
+    
+    "Veken Gueyikian" -- Hyperallergic;
+    "Hrag Vartanian" -- Hyperallergic;
+  }
+  
   subgraph cluster_institutions {
     label="institutions";
     "Waterfall Mansion";
@@ -85,7 +95,6 @@ graph {
     MOMA;
     ICP;
     "Mana Contemporary";
-    Hyperallergic;
     "William Patterson University"
     SAIC;
   }
@@ -93,10 +102,8 @@ graph {
   //ungrouped
   David;
   "Pablo Gnecco";
-  "Hrag Vartanian";
   "Michelle Fisher"; 
   "Paul Galloway";  
-  "Veken Gueyikian";
   "Dooeun Choi";
   "Magda Sawon";
   "Moishe Mana";
@@ -162,7 +169,5 @@ graph {
   Claudia -- "Waterfall Mansion";
   Postmasters -- "Magda Sawon";
 
-  "Veken Gueyikian" -- Hyperallergic;
-  "Hrag Vartanian" -- Hyperallergic;
 }
 <% end %>
