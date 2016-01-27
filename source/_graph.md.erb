@@ -5,8 +5,15 @@ graph {
   subgraph cluster_gallery {
     label="galleries";
     Bitforms;
+    Bitforms -- Claudia;
+    Bitforms -- "Sara Ludy";
+    
     Transfer;
+    Transfer -- Claudia;
+    Transfer -- Carla;
+    
     Postmasters;
+    
     "The Kitchen";
     "Kate Shin";
   }
@@ -83,7 +90,11 @@ graph {
     "Waterfall Mansion";
     Pratt;
     "The Whitney";
+    
     "MOMI";
+    MOMI -- "Carl Goodman";
+    MOMI -- "Jason Eppink";
+    
     "The New Museum";
     "Flux Factory";
     "The Wild Project";
@@ -92,11 +103,21 @@ graph {
     "Microscope Gallery";
     "Cooper Hewitt";
     "Reverse Space";
+    
     MOMA;
+    MOMA -- "Michelle Fisher";
+    MOMA -- "Paul Galloway";
+    MOMA -- "Walid Raad";
+  
     ICP;
     "Mana Contemporary";
     "William Patterson University"
+    
     SAIC;
+    SAIC -- Claudia;
+    SAIC -- David;
+    SAIC -- Tiffany;
+    SAIC -- Kurt;
   }
 
   //ungrouped
@@ -132,17 +153,14 @@ graph {
   "Pablo Gnecco" -- NewInc;
   
   Kurt -- Postmasters;
+  Postmasters -- Kurt;
+  Postmasters -- "Kristin Lucas";
+  Postmasters -- "Joe McKay";
   
-  "Carl Goodman" -- MOMI;
-  "Jason Eppink" -- MOMI;
-  "Jason Eppink" -- "Flux Factory";
-  
+  "Flux Factory" -- "Jason Eppink";
   
   "Will Pappenheimer" -- "The Whitney";
 
-  MOMA -- "Michelle Fisher";
-  MOMA -- "Paul Galloway";
-  MOMA -- "Walid Raad";
   
   Microscope -- "Ray Sweeten";
   Microscope -- "Andrea Monti";
@@ -150,15 +168,13 @@ graph {
   Microscope -- "Lisa Gwilliam";
   
 
-  Transfer -- Claudia;
-  Transfer -- Carla;
   Carla -- Pratt;
   Bitforms -- Claudia;
   "William Patterson University" -- Rees;
-  Claudia -- SAIC;
-  David -- SAIC;
-  Tiffany -- SAIC;
-  Kurt -- SAIC;
+  
+  
+  
+  
   "Christopher Phillips" -- ICP;
   "Mana Contemporary" -- ICP;
 
