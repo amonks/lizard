@@ -38,10 +38,13 @@ add:
 * dan: abstract memory places
 * lj: Nothing
 * sam: 3d architecture from social performance
-* isabelle: 
+* isabelle: insta capitalist handkerchief
+* ...person: maya architecture; forced perspective
+* 
 
 ## not present
 
 * meredith
 * sarah
 * jarad
+
