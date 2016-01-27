@@ -45,4 +45,3 @@ http://aliensrevealed.blogspot.com/2009/08/rapture-and-satanic-lie.html
 * ![](http://www.whale.to/b/paulron34rt.jpg)
 * ![](http://www.whale.to/c/busheye56c.jpg)
 * ![](http://disinfo.s3.amazonaws.com/wp-content/uploads/2011/08/V.jpg)
-* ![](https://matrixpraxis.files.wordpress.com/2015/04/bhyltpucuaaqrem-jpg-large.jpeg)
