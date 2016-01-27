@@ -1,4 +1,4 @@
-# Lizard Illuminati Project
+# FOR IMMEDIATE RELEASE
 # Maurice Hampton && Andrew Monks
 
 4% of americans believe in the reptillian illuminati theory, so the next time you're in a room in america with more than 25 people -- odds are one of them believes Barack Obama tastes the air by flicking his tongue in and out.
