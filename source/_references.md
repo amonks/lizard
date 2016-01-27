@@ -4,7 +4,6 @@
 
 * http://aliensrevealed.blogspot.com/2009/08/rapture-and-satanic-lie.html
 * http://www.jesus-is-savior.com/False%20Religions/Illuminati/international_conspiracy.htm		
-* http://svaliiluminati.blogspot.com/2012/09/svali-ex-lluminati-top-programmer.html
 
 ## Images
 
