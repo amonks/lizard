@@ -7,6 +7,19 @@
 * http://svaliiluminati.blogspot.com/2012/09/svali-ex-lluminati-top-programmer.html
 
 ## Images
+
+### Crazywalls
+
+* ![](http://40.media.tumblr.com/452f6eb045d3afe87bc3e86277631fe0/tumblr_o0qtogS49y1r13x2bo1_1280.jpg)
+* ![](http://36.media.tumblr.com/c58860239fc688f271d1b4697e981ba7/tumblr_o0qp3qT3B31r13x2bo1_1280.png)
+* ![](http://40.media.tumblr.com/d1a7b0f0613c830891939bd511ecdf2d/tumblr_o0qr6fNMLA1r13x2bo1_1280.jpg)
+* ![](http://40.media.tumblr.com/141647d12731a8021ff715eed058f6bb/tumblr_o0qnla6tCp1r13x2bo1_1280.jpg)
+* ![](http://40.media.tumblr.com/c4accdbda78bd5bbcaea28fa69d20439/tumblr_nw9hyen4ag1r13x2bo2_1280.png)
+* ![](http://41.media.tumblr.com/9e271f9fdd167c1f47fe2c97e12ef2ee/tumblr_nw9hyen4ag1r13x2bo1_1280.png)
+* ![](http://41.media.tumblr.com/7c6ba3488606419c6fb7223da68012a6/tumblr_necwprWIgO1r13x2bo1_1280.png)
+
+### Visual Language
+
 * ![](http://disinfo.s3.amazonaws.com/wp-content/uploads/2011/08/V.jpg)
 * ![](http://3.bp.blogspot.com/-DVRY_-C9R3g/VSmbZOiV8dI/AAAAAAAABGU/9ssJxRnA5ko/s1600/illuminati14_02.gif) 
 * ![](https://matrixpraxis.files.wordpress.com/2015/04/bhyltpucuaaqrem-jpg-large.jpeg)
@@ -22,13 +35,6 @@
 * ![](https://wesdancin.files.wordpress.com/2011/11/illuminati-flow-chart-isis2.gif)		
 * ![](http://f.monks.co/Screen-Shot-2016-01-26-at-7.12.04-PM-62I/Screen-Shot-2016-01-26-at-7.12.04-PM.png)		
 * ![](http://f.monks.co/Screen-Shot-2016-01-26-at-7.13.43-PM-5w4/Screen-Shot-2016-01-26-at-7.13.43-PM.png)
-* ![](http://40.media.tumblr.com/452f6eb045d3afe87bc3e86277631fe0/tumblr_o0qtogS49y1r13x2bo1_1280.jpg)
-* ![](http://36.media.tumblr.com/c58860239fc688f271d1b4697e981ba7/tumblr_o0qp3qT3B31r13x2bo1_1280.png)
-* ![](http://40.media.tumblr.com/d1a7b0f0613c830891939bd511ecdf2d/tumblr_o0qr6fNMLA1r13x2bo1_1280.jpg)
-* ![](http://40.media.tumblr.com/141647d12731a8021ff715eed058f6bb/tumblr_o0qnla6tCp1r13x2bo1_1280.jpg)
-* ![](http://40.media.tumblr.com/c4accdbda78bd5bbcaea28fa69d20439/tumblr_nw9hyen4ag1r13x2bo2_1280.png)
-* ![](http://41.media.tumblr.com/9e271f9fdd167c1f47fe2c97e12ef2ee/tumblr_nw9hyen4ag1r13x2bo1_1280.png)
-* ![](http://41.media.tumblr.com/7c6ba3488606419c6fb7223da68012a6/tumblr_necwprWIgO1r13x2bo1_1280.png)
 * ![](https://i.ytimg.com/vi/P0WJrQwuMRA/hqdefault.jpg)
 * ![](http://img.dailymail.co.uk/i/pix/2007/12_03/queenDM1812_468x651.jpg)
 * ![](http://www.truthcontrol.com/files/truthcontrol/styles/teaser/public/images/Marduk%20nibiru.jpg)
