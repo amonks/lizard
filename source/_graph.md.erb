@@ -35,6 +35,7 @@ digraph {
 
   subgraph cluster_institutions {
     label="institutions";
+    "Waterfall Mansion"
     Pratt;
     "Cooper Hewitt"
     Moma;
@@ -55,19 +56,24 @@ digraph {
 
 
   //edges
-  Transfer -> Claudia;
-  Transfer -> Carla;
-  Carla -> Pratt
-  Bitforms -> Claudia;
-  "William Patterson University" -> Rees;
-  Claudia -> SAIC;
-  David -> SAIC;
-  Tiffany -> SAIC;
-  Kurt -> SAIC;
-  "Christopher Phillips" -> ICP;
-  Mana -> ICP;
+  Transfer <-> Claudia;
+  Transfer <-> Carla;
+  Carla <-> Pratt;
+  Bitforms <-> Claudia;
+  "William Patterson University" <-> Rees;
+  Claudia <-> SAIC;
+  David <-> SAIC;
+  Tiffany <-> SAIC;
+  Kurt <-> SAIC;
+  "Christopher Phillips" <-> ICP;
+  Mana <-> ICP;
 
-  "Veken Gueyikian" -> Hyperallergic;
-  "Hrag Vartanian" -> Hyperallergic
+  "Dooeun Choi" <-> "Waterfall Mansion";
+  "Waterfall Mansion" <-> "Kate Shin";
+  Claudia <-> "Waterfall Mansion";
+  Postmasters <-> "Magda Sawon";
+
+  "Veken Gueyikian" <-> Hyperallergic;
+  "Hrag Vartanian" <-> Hyperallergic;
 }
 <% end %>
