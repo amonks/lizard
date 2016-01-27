@@ -3,13 +3,17 @@
 
 4% of americans believe in the reptillian illuminati theory, so the next time you're in a room in america with more than 25 people -- odds are one of them believes Barack Obama tastes the air by flicking his tongue in and out.
 
+We are making a crazywall mapping money and power in the ny art world with the visual language of reptilian illuminati theorists. 
+
 ## what?
 
-We are making a crazywall mapping money and power in the ny art world with the visual language of reptilian illuminati theorists. Think polaroids and string and photoshopped gills and lots of ugly text.
+Think polaroids and string and photoshopped gills and lots of ugly text.
 
-### data
+The project will be installed as a string-and-thumbtack crazywall-style map. 
 
-The most substantial part of this project is the actual string-and-thumbtack map. Every person we spoke to or gallery we went to or whatever in NYC is a node. Every connection (collection, representation, exhibition, employment) between nodes is a piece of string.
+Every person we spoke to or gallery we went to or whatever in NYC is a node, represented as an image or cluster of images.
+
+Every connection (collection, representation, exhibition, employment) between nodes is a piece of string.
 
 ## why?
 
