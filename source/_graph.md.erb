@@ -13,6 +13,7 @@ graph {
 
   subgraph cluster_artist {
     label="artists";
+    "Microscope Gallery";
     Mandiberg;
     Rees;
     Carla;
@@ -28,7 +29,7 @@ graph {
     Moma;
     Transfer;
     "William Patterson University"
-    Mana;
+    "Mana Contemporary";
     SAIC;
     Shin;
   }
@@ -37,10 +38,12 @@ graph {
     label="institutions";
     "Waterfall Mansion"
     Pratt;
+    "The New Museum";
+    NewInc;
     "Cooper Hewitt"
     Moma;
     ICP;
-    Mana;
+    "Mana Contemporary";
     Hyperallergic;
     "William Patterson University"
     SAIC;
@@ -49,13 +52,19 @@ graph {
   //ungrouped
   David;
   "Hrag Vartanian";
+  "Pablo Gnecco";
+
   "Veken Gueyikian";
   "Christopher Phillips";
   "Dooeun Choi";
   "Magda Sawon";
+  "Moishe Manae";
 
 
   //edges
+  "The New Museum" -- NewInc;
+  "Pablo Gnecco" -- NewInc;
+
   Transfer -- Claudia;
   Transfer -- Carla;
   Carla -- Pratt;
@@ -66,7 +75,9 @@ graph {
   Tiffany -- SAIC;
   Kurt -- SAIC;
   "Christopher Phillips" -- ICP;
-  Mana -- ICP;
+  "Mana Contemporary" -- ICP;
+
+  "Moishe Manae" -- "Mana Contemporary";
 
   "Dooeun Choi" -- "Waterfall Mansion";
   "Waterfall Mansion" -- "Kate Shin";
