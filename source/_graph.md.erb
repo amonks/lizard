@@ -13,8 +13,13 @@ graph {
 
   subgraph cluster_artist {
     label="artists";
-    "Microscope Gallery";
+    "Violette Bule";
     Mandiberg;
+    
+    // microscope
+    "Lisa Gwilliam";
+    "Ray Sweeten";
+    
     "Will Pappenheimer";
     "Shane Mecklenburger";
     "Jason Eppink";
@@ -42,7 +47,7 @@ graph {
   subgraph cluster_money {
     label="money";
     MOMA;
-    Transfer;
+    "Kelani Nicole";
     "Moishe Mana";
     "William Patterson University";
     "Mana Contemporary";
@@ -60,7 +65,9 @@ graph {
     "Flux Factory";
     Eyebeam;
     NewInc;
-    "Cooper Hewitt"
+    "Microscope Gallery";
+    "Cooper Hewitt";
+    "Reverse Space";
     MOMA;
     ICP;
     "Mana Contemporary";
@@ -74,8 +81,10 @@ graph {
   "Hrag Vartanian";
   "Pablo Gnecco";
   "Sasha Okshteyn";
-  "Michelle Fisher";
-  "Paul Galloway";
+  "Helena Acosta";
+  "Elle Burchill"; // microscope
+  "Michelle Fisher"; 
+  "Paul Galloway";  
   "Veken Gueyikian";
   "Christopher Phillips";
   "Dooeun Choi";
@@ -87,6 +96,9 @@ graph {
 
 
   //edges
+  "Kelani Nicole" -- Bloomberg;
+  "Kelani Nicole" -- Transfer;
+  
   Eyebeam -- "Roddy Shrock";
   Eyebeam -- "Laura Weizenbach";
   "Sasha Okshteyn" -- "Black And White Gallery";
@@ -96,6 +108,8 @@ graph {
   "Black And White Gallery" -- "Anastasia Ax";
   "Black And White Gallery" -- "Rachel Stern";
 
+  "Reverse Space" -- "Violette Bule";
+  "Reverse Space" -- "Helena Acosta";
   "The New Museum" -- NewInc;
   "Pablo Gnecco" -- NewInc;
   
