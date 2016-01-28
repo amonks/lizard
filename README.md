@@ -40,7 +40,7 @@ add:
 * sam: 3d architecture from social performance
 * isabelle: insta capitalist handkerchief
 * ...person: maya architecture; forced perspective
-* 
+* amo: anxiety, blind sketches, "fuck them inside your heart"
 
 ## not present
 
