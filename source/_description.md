@@ -22,3 +22,8 @@ Every connection (collection, representation, exhibition, employment) between no
 Hoping to draw some pointed comparisons:
 
 > The locus of power in the [art] world sits with a small group of wealthy people who exert power behind the scenes [and are alien reptiles also].
+
+## Here's what it might look like
+
+![](http://l1zard.xn--onks-99b.com/lizardviz.png)
+
